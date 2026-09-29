@@ -1,0 +1,6 @@
+{
+  "name": "Kanban CRM",
+  "description": "CRM Kanban completo com gestão manual de tarefas, negócios e clientes, preparado para integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
